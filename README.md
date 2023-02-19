@@ -6,7 +6,7 @@ In the second part of the analysis, I concluded our analysis of whether the stop
 
 From both analyses, we see that White pedestrians have the lowest rate of being stopped, and Black pedestrians have the highest rate of being stopped regardless of the threshold. 
 
-![alt text]([https://github.com/[hltro]/[NYPD-Stop-Frisk-Data-Analysis]/blob/[main]/fraction-stopped-vs-probability-of-weapon-possession.png](https://github.com/hltro/NYPD-Stop-Frisk-Data-Analysis/blob/main/fraction-stopped-vs-probability-of-weapon-possession.png))
+![alt text](https://github.com/hltro/NYPD-Stop-Frisk-Data-Analysis/blob/main/fraction-stopped-vs-probability-of-weapon-possession.png)
 
 This graph is evidence for Fourteenth Amendment violations (racial discrimination) for the following reasons:
 1) No matter if the threshold is 2% or 5%, White pedestrians have a much lower rate of being stopped and frisked compared to other populations. When we look closely at the 2% threshold, all three other races have almost double or triple the fraction of being stopped, showing that the police's decision to stop and frisk is highly racially motivated and biased towards White population.
